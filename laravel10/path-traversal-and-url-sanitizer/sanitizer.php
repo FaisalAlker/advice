@@ -1,5 +1,12 @@
 <?php
 
+/**
+ * Author: Alker
+ * Framework: Laravel 10
+ * Used for Vuln: Path Traversal and XSS
+ * Revision: 2
+ */
+
 namespace App\Http\Middleware;
 
 use Closure;
